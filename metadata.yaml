@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16384#O-Mandarim
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2005-07-29'
 gutenberg_type: Text
